@@ -38,3 +38,10 @@ print("red color value is \(redColor)")
  
  */
 
+let studentsName = "Nick"
+let studentsLastName = "Black"
+let studentsHeigh : Int = 180
+let studentsWeight = 80.5
+let studentsAge : Int = 25
+
+print("Here is \(studentsName), he is \(studentsAge). His last name is \(studentsLastName). He is tall and heavy! His heigh is\(studentsLastName) and his weight is \(studentsWeight)kg!")
